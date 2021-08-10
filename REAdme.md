@@ -9,3 +9,7 @@ This is a good feature to have on an ecommerce site to display customer reviews 
 - addEventListener()
 - array.length
 - textContent
+
+![Prject Image](project_image.png)
+
+[Project Live link](https://cpazad.github.io/Review-carousel/)
