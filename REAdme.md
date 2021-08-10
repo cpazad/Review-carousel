@@ -13,3 +13,7 @@ This is a good feature to have on an ecommerce site to display customer reviews 
 ![Prject Image](project_image.png)
 
 [Project Live link](https://cpazad.github.io/Review-carousel/)
+
+*Md. Azadur Rahman*
+[Fiverr Link](https://www.fiverr.com/cpazad)
+[Twitter Link](https://twitter.com/freedombyte)
